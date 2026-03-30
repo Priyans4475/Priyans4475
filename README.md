@@ -54,7 +54,7 @@
 ## 📈 Coding Profiles
 
 <p align="center">
-  <a href="https://leetcode.com/Priyans4475/">
+  <a href="https://leetcode.com/Priyanshu4475/">
     <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode&logoColor=white" />
   </a>
 </p>

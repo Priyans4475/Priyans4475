@@ -88,17 +88,15 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Priyans4475&show_icons=true&theme=tokyonight&hide_border=true" alt="Priyanshu's GitHub stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Priyans4475&show_icons=true&theme=tokyonight&hide_border=true" alt="Priyanshu's GitHub stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priyans4475&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Priyans4475&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
-## 🏆 LeetCode Stats
-
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/Priyans4475?theme=dark&font=Karma&ext=contest" alt="LeetCode Stats" />
+  <img src="https://streak-stats.demolab.com?user=Priyans4475&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ## 🎯 Career Objective

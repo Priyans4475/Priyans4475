@@ -95,8 +95,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priyans4475&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
+## 🏆 LeetCode Stats
+
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Priyans4475&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://leetcard.jacoblin.cool/Priyans4475?theme=dark&font=Karma&ext=contest" alt="LeetCode Stats" />
 </p>
 
 ## 🎯 Career Objective
